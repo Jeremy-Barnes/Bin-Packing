@@ -1,0 +1,16 @@
+//Jeremy Barnes Bin Counting CS4623
+//Documents must match this format
+//Data Label: Data
+//Order is not important.
+//Case Sensitive - Beginning of each word must be capitalized, no other letters capitalized.
+//Indicates a whole line comment. You cannot put a comment on the same line after meaningful data, it will crash
+//Comments must begin at the first 2 characters of the line
+
+//Blank spaces are ignored
+
+
+
+Bin Count: 100
+Package Count: 40
+Bin Size: 10
+Packages: 1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,3,4,1,1,1,5,5,4,4,2,2,2,2,2,2,5,1,1,1,1,1
